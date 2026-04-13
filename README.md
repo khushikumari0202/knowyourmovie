@@ -110,9 +110,8 @@ Interstellar
 The Avengers
 Inception
 ```
+---
 
----
----
 
 ## 💡 Future Enhancements
 
