@@ -1,8 +1,3 @@
-Here is your **complete `README.md` code** — ready to copy-paste into your GitHub repo 👇
-
----
-
-```markdown
 # 🎬 KnowYourMovie
 
 KnowYourMovie is a **Movie Recommendation System** that suggests movies based on user preferences using **Machine Learning (Content-Based Filtering)**. It analyzes movie features like genres, cast, keywords, and overview to recommend similar movies.
