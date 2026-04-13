@@ -30,8 +30,6 @@ KnowYourMovie is a **Movie Recommendation System** that suggests movies based on
 
 knowyourmovie/
 │
-├── data/                 # Dataset files (movies, credits)
-├── notebooks/            # Jupyter notebooks for preprocessing & model building
 ├── app.py                # Main application file
 ├── model.pkl             # Saved ML model
 ├── similarity.pkl        # Similarity matrix
