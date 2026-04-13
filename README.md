@@ -20,7 +20,6 @@ KnowYourMovie is a **Movie Recommendation System** that suggests movies based on
 - **Libraries:** Pandas, NumPy, Scikit-learn, NLTK
 - **Model:** CountVectorizer + Cosine Similarity
 - **Dataset:** TMDB Movie Dataset
-- **Frontend (if used):** React / HTML / CSS / Tailwind
 
 ---
 
